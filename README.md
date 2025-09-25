@@ -15,7 +15,7 @@ This Python script allows you to encrypt and decrypt images using a simple pixel
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Kingsha777/PRODIGY_CS_2/image-decrypt.py
+   git clone https://github.com/Kingsha777/Image-decrypt.git
    cd image-decrypt
    Example
 If you want to encrypt an image named example.png using a key of 123, the code snippet would look like:
